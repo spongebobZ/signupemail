@@ -1,0 +1,16 @@
+2018-11-19 00:20:35,112 - BrowserEngine - INFO - You had select Chrome browser.
+2018-11-19 00:20:35,112 - BrowserEngine - INFO - The test server url is: https://signup.live.com
+2018-11-19 00:20:36,572 - BrowserEngine - INFO - Starting Chrome browser.
+2018-11-19 00:20:40,894 - BrowserEngine - INFO - Open url: https://signup.live.com
+2018-11-19 00:20:41,245 - BrowserEngine - INFO - Maximize the current window.
+2018-11-19 00:20:41,247 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-11-19 00:20:41,405 - BasePage - INFO - Had type ' vYu643aI@outlook.com ' in inputBox
+2018-11-19 00:20:41,522 - BasePage - INFO - The element '  ' was clicked.
+2018-11-19 00:20:42,254 - BasePage - INFO - Had type ' Aa20181118 ' in inputBox
+2018-11-19 00:20:42,322 - BasePage - INFO - The element '  ' was clicked.
+2018-11-19 00:20:42,427 - BasePage - INFO - Had type ' 4wqF ' in inputBox
+2018-11-19 00:20:42,502 - BasePage - INFO - Had type ' QeIt ' in inputBox
+2018-11-19 00:20:42,655 - BasePage - INFO - The element '  ' was clicked.
+2018-11-19 00:20:42,996 - BasePage - INFO - The element '  ' was clicked.
+2018-11-19 00:21:43,494 - BasePage - ERROR - waiting time out:Message: 
+

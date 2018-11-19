@@ -1,0 +1,14 @@
+2018-11-19 00:15:40,674 - BrowserEngine - INFO - You had select Chrome browser.
+2018-11-19 00:15:40,675 - BrowserEngine - INFO - The test server url is: https://signup.live.com
+2018-11-19 00:15:41,965 - BrowserEngine - INFO - Starting Chrome browser.
+2018-11-19 00:15:46,871 - BrowserEngine - INFO - Open url: https://signup.live.com
+2018-11-19 00:15:47,216 - BrowserEngine - INFO - Maximize the current window.
+2018-11-19 00:15:47,217 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-11-19 00:15:47,363 - BasePage - INFO - Had type ' Xzgaj4AI@outlook.com ' in inputBox
+2018-11-19 00:15:47,474 - BasePage - INFO - The element '  ' was clicked.
+2018-11-19 00:15:48,161 - BasePage - INFO - Had type ' Aa20181118 ' in inputBox
+2018-11-19 00:15:48,228 - BasePage - INFO - The element '  ' was clicked.
+2018-11-19 00:15:48,343 - BasePage - INFO - Had type ' GBv5 ' in inputBox
+2018-11-19 00:15:48,424 - BasePage - INFO - Had type ' uk58 ' in inputBox
+2018-11-19 00:15:48,590 - BasePage - INFO - The element '  ' was clicked.
+2018-11-19 00:15:48,945 - BasePage - INFO - The element '  ' was clicked.
