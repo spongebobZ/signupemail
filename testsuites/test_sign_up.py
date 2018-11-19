@@ -1,11 +1,10 @@
 import os
 import unittest
 
-from pages.input_2_pw import InputPw
-from pages.input_3_name import InputName
-from pages.input_4_birth import InputBirth
-from pages.input_5_code import InputCode
-
+from pages.outlook.input_2_pw import InputPw
+from pages.outlook.input_3_name import InputName
+from pages.outlook.input_4_birth import InputBirth
+from pages.outlook.input_5_code import InputCode
 from framework.browser_engine import BrowserEngine
 from pages.outlook.input_1_mail import InputMail
 

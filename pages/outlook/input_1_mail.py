@@ -1,5 +1,7 @@
+import re
 from framework.tools import Tools
 from selenium.webdriver.common.by import By
+
 
 class InputMail(Tools):
     INPUT_MAIL = (By.ID,'MemberName')
@@ -12,7 +14,10 @@ class InputMail(Tools):
 
     def type_email(self):
         import random,string
-        self.email = ''.join(random.sample(string.ascii_letters + string.digits, 8)) + '@outlook.com'
+        while True:
+            self.email = ''.join(random.sample(string.ascii_letters + string.digits, 8)) + '@outlook.com'
+            if not re.match(r'^[0-9]',self.email):
+                break
         self.type(self.INPUT_MAIL,self.email)
         self.click(self.NEXT_BTN)
 
